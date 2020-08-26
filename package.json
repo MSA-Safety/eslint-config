@@ -1,0 +1,54 @@
+{
+  "_args": [
+    [
+      "@msa/eslint-config@1.1.1",
+      "/Users/vgogulen/Documents/Projects/vcr_node_frontend"
+    ]
+  ],
+  "_development": true,
+  "_from": "@msa/eslint-config@1.1.1",
+  "_id": "@msa/eslint-config@1.1.1",
+  "_inBundle": false,
+  "_integrity": "sha1-uRRjRQg0NAdJ7pZHr3uEKawZkR4=",
+  "_location": "/@msa/eslint-config",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@msa/eslint-config@1.1.1",
+    "name": "@msa/eslint-config",
+    "escapedName": "@msa%2feslint-config",
+    "scope": "@msa",
+    "rawSpec": "1.1.1",
+    "saveSpec": null,
+    "fetchSpec": "1.1.1"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "http://artifactory.wireless.msasafety.com:80/artifactory/api/npm/npm/@msa/eslint-config/-/@msa/eslint-config-1.1.1.tgz",
+  "_spec": "1.1.1",
+  "_where": "/Users/vgogulen/Documents/Projects/vcr_node_frontend",
+  "author": {
+    "name": "Chadd",
+    "email": "chadd.cron@msasafety.com"
+  },
+  "description": "MSA's eslint configuration",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "@msa/eslint-config",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "publishConfig": {
+    "registry": "https://npm.wireless.msasafety.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@stash.msasafety.com:7999/msalib/eslintconfigmsa.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.1"
+}
